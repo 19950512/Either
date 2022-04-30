@@ -2,6 +2,9 @@
 
 # Usage
 
-Either<Error, Success> myFunction(){
-  ...
-}
+```dart
+
+  Either<Error, Success> myFunction(){
+    ...
+  }
+```
