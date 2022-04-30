@@ -1,2 +1,7 @@
 # Either
-Flutter Either
+
+# Usage
+
+Either<Error, Success> myFunction(){
+  ...
+}
